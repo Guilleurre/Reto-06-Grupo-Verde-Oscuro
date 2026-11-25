@@ -1,1 +1,9 @@
+<<<<<<< Updated upstream
 /data/
+=======
+Data/minipuzzles_eventos_anuncios.csv
+Data/minipuzzles_eventos_compra.csv
+Data/minipuzzles_eventos_juego.csv
+Data/minipuzzles_eventos_retos.csv
+Data/minipuzzles_historial_compras.csv
+>>>>>>> Stashed changes
